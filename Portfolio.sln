@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Portfolio", "Portfolio\Portfolio.esproj", "{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioAPI", "PortfolioAPI\PortfolioAPI.csproj", "{720290D7-DF8A-4CE0-9281-641FFA34452B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A020FFE6-6ACB-4C55-BBB8-AF9F45D9645B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{720290D7-DF8A-4CE0-9281-641FFA34452B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720290D7-DF8A-4CE0-9281-641FFA34452B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720290D7-DF8A-4CE0-9281-641FFA34452B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720290D7-DF8A-4CE0-9281-641FFA34452B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D36961-D8A2-4106-8F6E-D4F9CB1F73B9}
+	EndGlobalSection
+EndGlobal
