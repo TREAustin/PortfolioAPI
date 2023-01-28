@@ -18,4 +18,4 @@ phases:
     commands:
       - echo Publish started on `date`
       # https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/dotnet-linux-platform-bundle-app.html
-      - dotnet publish -c Release -r linux-x64 -o ./  PortfolioAPI/PortfolioAPI.csproj
+      # - dotnet publish -c Release -r linux-x64 -o ./  PortfolioAPI/PortfolioAPI.csproj
