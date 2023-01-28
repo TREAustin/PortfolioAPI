@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taust\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI.csproj": {}
+    "C:\\Users\\taust\\Desktop\\Portfolio Project\\PortfolioAPI\\PortfolioAPI\\PortfolioAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taust\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI.csproj": {
+    "C:\\Users\\taust\\Desktop\\Portfolio Project\\PortfolioAPI\\PortfolioAPI\\PortfolioAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taust\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI.csproj",
+        "projectUniqueName": "C:\\Users\\taust\\Desktop\\Portfolio Project\\PortfolioAPI\\PortfolioAPI\\PortfolioAPI.csproj",
         "projectName": "PortfolioAPI",
-        "projectPath": "C:\\Users\\taust\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI.csproj",
+        "projectPath": "C:\\Users\\taust\\Desktop\\Portfolio Project\\PortfolioAPI\\PortfolioAPI\\PortfolioAPI.csproj",
         "packagesPath": "C:\\Users\\taust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taust\\Desktop\\Portfolio\\PortfolioAPI\\obj\\",
+        "outputPath": "C:\\Users\\taust\\Desktop\\Portfolio Project\\PortfolioAPI\\PortfolioAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
