@@ -1,17 +1,21 @@
 ﻿version: 0.2
 
 phases:
+  install:
+    runtime-versions:
+      dotnet: 7.0
   pre_build:
     commands:
-    - dotnet restore PortfolioAPI/PortfolioAPI.csproj
+    - echo Test 1
+    #- dotnet restore PortfolioAPI/PortfolioAPI.csproj
   build:
     commands:
       - echo Build started on `date`
-      - dotnet build PortfolioAPI/PortfolioAPI.csproj
+    #  - dotnet build PortfolioAPI/PortfolioAPI.csproj
       - echo Test started on `date`
-      - dotnet test PortfolioAPI/PortfolioAPI.csproj
+     # - dotnet test PortfolioAPI/PortfolioAPI.csproj
   post_build:
     commands:
       - echo Publish started on `date`
       # https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/dotnet-linux-platform-bundle-app.html
-      - dotnet publish -c Release -r linux-x64 -o ./  PortfolioAPI/PortfolioAPI.csproj
+      # - dotnet publish -c Release -r linux-x64 -o ./  PortfolioAPI/PortfolioAPI.csproj
