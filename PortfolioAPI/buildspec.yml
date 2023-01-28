@@ -1,9 +1,6 @@
 ﻿version: 0.2
 
 phases:
-  install:
-    runtime-versions:
-      dotnet: 7.0
   pre_build:
     commands:
     - dotnet restore PortfolioAPI/PortfolioAPI.csproj
@@ -13,7 +10,6 @@ phases:
       - dotnet build PortfolioAPI/PortfolioAPI.csproj
       - echo Test started on `date`
       - dotnet test PortfolioAPI/PortfolioAPI.csproj
-      
   post_build:
     commands:
       - echo Publish started on `date`
