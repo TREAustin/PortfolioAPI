@@ -3,7 +3,7 @@
 env:
   variables:
     PROJECT: PortfolioAPI
-    DOTNET_FRAMEWORK: 4.6.1
+    DOTNET_FRAMEWORK: 7
 phases:
   build:
     commands:
