@@ -556,3 +556,9 @@ C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\obj\Debug\net
 C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\obj\Debug\net6.0\PortfolioAPI.pdb
 C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\obj\Debug\net6.0\PortfolioAPI.genruntimeconfig.cache
 C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\obj\Debug\net6.0\ref\PortfolioAPI.dll
+C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\bin\Debug\net6.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\taust\Desktop\Portfolio Project\PortfolioAPI\PortfolioAPI\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
